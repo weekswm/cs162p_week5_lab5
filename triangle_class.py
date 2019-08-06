@@ -1,11 +1,11 @@
 #Triangle Class
 
-class Triangle
+class Triangle:
     """Represents a triangle.
 
     attributes: side1, side2, side3.
     """
-
+    #Inside class Triangle
     def __init__(self, sideA = 3, sideB = 4, sideC = 5):
         self.sideA = sideA
         self.sideB = sideB
