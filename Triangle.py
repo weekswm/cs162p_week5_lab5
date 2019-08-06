@@ -12,27 +12,27 @@ class Triangle:
         self.sideC = sideC
 
     #Getters & Setters for sides A, B, and C
-    def get_a(self):
+    def getA(self):
         #get side A
         return self.sideA
 
-    def set_a(self, new_a):
+    def setA(self, new_a):
         #set side A
         self.sideA = int(new_a)
 
-    def get_b(self):
+    def getB(self):
         #get side B
         return self.sideB
 
-    def set_b(self, new_b):
+    def setB(self, new_b):
         #set side B
         self.sideB = int(new_b)
 
-    def get_c(self):
+    def getC(self):
         #get side C
         return self.sideC
 
-    def set_c(self, new_c):
+    def setC(self, new_c):
         #set side C
         self.sideC = int(new_c)
 
