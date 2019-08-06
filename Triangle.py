@@ -54,7 +54,7 @@ class Triangle:
 
     def isRight(self):
         '''Checks if the value of any of the three sides squared 
-        are equal to the sum of the squares of thevother two sides, 
+        are equal to the sum of the squares of the other two sides, 
         then returns True.
         '''
         hypotenuse = 0
